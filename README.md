@@ -13,19 +13,11 @@ Notes
 10. Add in module.exports -> plugins -> require('postcss-preset-env')({stage: 1}), & require('cssnano'),
 
 11. npm i -D autoprefixer
+12. Add in module.exports -> plugins -> require('autoprefixer'),
 
-12. postcss bem
-13. stylelint
+13. npm i -D stylelint stylelint-config-standard
 
-
-
-
-
+14. postcss bem
 
 https://postcss.org/
 https://sass-guidelin.es/#the-7-1-pattern
-
-
-
-
-
