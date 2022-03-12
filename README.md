@@ -13,10 +13,10 @@ Notes 01. npm init -y 02. npm i -D postcss postcss-cli
 11. npm i -D autoprefixer
 12. Add in module.exports -> plugins -> require('autoprefixer'),
 
-13. npm i -D stylelint stylelint-config-standard
+13. npm i -D stylelint stylelint-config-standard stylelint-config-prettier
 14. npm i -D prettier eslint-config-prettier eslint-plugin-prettier
 
-postcss bem
+15. npm i -D postcss-bem-linter
 
 Run Stylelint on all the CSS files in your project:
 npx stylelint "\*_/_.css" (command is: npx stylelint "starstar/star.css")

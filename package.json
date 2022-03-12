@@ -15,6 +15,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "postcss": "^8.4.8",
+    "postcss-bem-linter": "^3.3.0",
     "postcss-cli": "^9.1.0",
     "postcss-import": "^14.0.2",
     "postcss-preset-env": "^7.4.2",

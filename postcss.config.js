@@ -5,5 +5,6 @@ module.exports = {
     // require('cssnano'),
     require('autoprefixer'),
     // require('stylelint'),
+    require('postcss-bem-linter'),
   ]
 }
